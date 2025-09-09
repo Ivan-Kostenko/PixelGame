@@ -1,0 +1,1 @@
+shards_collected = string(global.shards_collected)

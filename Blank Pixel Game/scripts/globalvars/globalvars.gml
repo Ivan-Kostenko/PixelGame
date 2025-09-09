@@ -1,0 +1,1 @@
+global.shards_collected = 0

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"globalvars",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"globalvars",
+  "parent":{
+    "name":"Скрипты",
+    "path":"folders/Скрипты.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
